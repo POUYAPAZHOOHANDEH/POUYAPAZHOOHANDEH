@@ -14,7 +14,7 @@
 
   <a href="https://picomedia.ir" target="_blank"><img width="22px" src="https://s8.uupload.ir/files/fav_wa5f_thumb.png" border="0" alt="آپلود عکس" /></a>
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=pouyapazhoohandeh)
 
 <br />
 
@@ -26,7 +26,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](mailto:pazhoohandeh.pouya@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
